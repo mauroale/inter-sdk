@@ -1,3 +1,3 @@
 from setuptools import setup
 
-setup(name="inter", version="0.1.0", py_modules=["inter"], install_requires=["requests"])
+setup(name="intersdk", version="0.1.0", py_modules=["intersdk"], install_requires=["requests"])
